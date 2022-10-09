@@ -1,0 +1,41 @@
+.left-space{
+  padding-left: 1rem;
+  }
+
+  .right-space{
+    padding-right: 1rem;
+    }
+
+.align{
+  
+    position: absolute;
+    right: 150px;
+   float: right;
+  
+}
+
+.border{
+  border-radius: 6rem;
+}
+
+.up-space{
+  padding-top: 1rem;
+}
+
+.down-space{
+  padding-bottom: 3rem;
+}
+
+.table-align{
+margin-left: 2rem;
+}
+
+.left-margin{
+  margin-left: 1rem;
+}
+
+.modal-icon{
+position: absolute;
+float: right;
+right: 200px;
+}
